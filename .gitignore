@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/Frontend/ghar-sewa/node_modules
+/Frontend/ghar-sewa/.pnp
+/Frontend/ghar-sewa/.pnp.js
+
+# testing
+/Frontend/ghar-sewa/coverage
+
+# production
+/Frontend/ghar-sewa/build
+
+# misc
+/Frontend/ghar-sewa/.DS_Store
+/Frontend/ghar-sewa/.env.local
+/Frontend/ghar-sewa/.env.development.local
+/Frontend/ghar-sewa/.env.test.local
+/Frontend/ghar-sewa/.env.production.local
+
+/Frontend/ghar-sewa/npm-debug.log*
+/Frontend/ghar-sewa/yarn-debug.log*
+/Frontend/ghar-sewa/yarn-error.log*
